@@ -1,13 +1,9 @@
 ---
-title: "Reproducible Research Week 2 - Course Project 1"
-author: "Pieter du Plooy"
-date: "27/02/2020"
-output:
-  html_document: 
-    keep_md: yes
-  pdf_document: default
+title: "Reproducible Research: Peer Assessment 1"
+output: 
+  html_document:
+    keep_md: true
 ---
-
 
 
 ## Loading and preprocessing the data
